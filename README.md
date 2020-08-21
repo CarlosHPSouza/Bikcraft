@@ -43,3 +43,13 @@ Projeto desenvolvido durante curso de Web Design da Origamid
   <img alt="Bikcraft" title="#Origamid" src="./img/assets/mobile-2.png"width=200 />
   <img alt="Bikcraft" title="#Origamid" src="./img/assets/mobile-3.png"width=200 />
   </h1>
+  
+## Tecnologias
+ 
+- [HTML5](https://www.w3schools.com/html/default.asp)
+- [CSS3](https://www.w3schools.com/w3css/w3css_cards.asp)
+- [Javascript](https://www.w3schools.com/js/default.asp)
+
+
+## Licença
+Este projeto pode ser usado por qualquer pessoa! Licença MIT
