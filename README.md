@@ -29,10 +29,10 @@ Projeto desenvolvido durante curso de Web Design da Origamid
 
 ## Web
 <h1 align="left">
-  <img alt="Bikcraft" title="#Origamid" src="./img/assets/Mobile.png"width=200 />
-  <img alt="Bikcraft" title="#Origamid" src="./img/assets/mobile-1.png"width=200 />
-  <img alt="Bikcraft" title="#Origamid" src="./img/assets/mobile-2.png"width=200 />
-  <img alt="Bikcraft" title="#Origamid" src="./img/assets/mobile-3.png"width=200 />
+  <img alt="Bikcraft" title="#Origamid" src="./img/assets/home.png"width=200 />
+  <img alt="Bikcraft" title="#Origamid" src="./img/assets/contato.png"width=200 />
+  <img alt="Bikcraft" title="#Origamid" src="./img/assets/sobre.png"width=200 />
+  <img alt="Bikcraft" title="#Origamid" src="./img/assets/produtos.png"width=200 />
   </h1>
 
 ## Mobile
